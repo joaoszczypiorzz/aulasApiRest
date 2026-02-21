@@ -1,0 +1,19 @@
+{
+  "name": "aulasapirest",
+  "version": "1.0.0",
+  "description": "Repositório exclusivo para guardar os códigos que eu desenvolver nas aulas de ApiRest",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
