@@ -1,6 +1,6 @@
 # 📚 API de Gerenciamento de Usuários
 
-Projeto desenvolvido para a disciplina [Nome da Disciplina/Módulo]. É uma API RESTful básica em Node.js e Express, com operações de CRUD e banco de dados em memória.
+Projeto desenvolvido para a disciplina de Desenvolvimento de Aplicativos moveis. É uma API RESTful básica em Node.js e Express, com operações de CRUD e banco de dados em memória.
 
 ## 🚀 Como rodar o projeto
 
