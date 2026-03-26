@@ -26,7 +26,7 @@ Abaixo estão detalhados todos os endpoints da API, junto com as capturas de tel
 * **Descrição:** Verifica se a API está online.
 * **Teste no Postman:**
 
-![API Funcionando](./Prints/funcionando.png)
+![Print da Api funcionando](./Prints/funcionado.png)
 
 
 ### 2. Criar Novo Usuário (POST)
