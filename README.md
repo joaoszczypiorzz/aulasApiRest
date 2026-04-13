@@ -7,7 +7,7 @@ Projeto desenvolvido para a disciplina de Desenvolvimento de Aplicativos moveis.
 1. Clone o repositório.
 2. Instale as dependências: `npm install express`
 3. Inicie o servidor: `node index.js` (ou o nome do seu arquivo principal).
-4. O servidor estará rodando em `http://localhost:3000`.
+4. Caminho para verificar servidor rodando `http://localhost:3000/api/teste`.
 
 ---
 

@@ -10,7 +10,15 @@ app.use(express.json());
 //Banco de Dados Falso (em Memória)
 let usuarios = [
     {id: 1, nome: "João"},
-    {id: 2, nome: "Maria"}
+    {id: 2, nome: "Maria"},
+    {id: 3, nome: "Rafael"},
+    {id: 4, nome: "Thiagão da Unifil"},
+    {id: 5, nome: "Andrey gay"},
+    {id: 6, nome: "Henrique"},
+    {id: 7, nome: "Murillo"},
+    {id: 8, nome: "Andreia"},
+    {id: 9, nome: "Enzo"},
+    {id: 10,nome: "João Vitor Szczypior Tavares"}
 ];
 
 // 4. Criando nossa primeira Rota (Endpoint)
